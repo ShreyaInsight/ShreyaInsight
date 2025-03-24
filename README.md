@@ -14,7 +14,7 @@ Doing My Degree In Bachelor Of Technology With Computer Science & Engineering In
 <img src="https://img.icons8.com/color/48/000000/css3.png"/>  
 <img src="https://img.icons8.com/color/50/000000/javascript.png">
 <img src="https://img.icons8.com/color/48/000000/python.png"/>
-<img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000"
+<img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
 </p>
 
 ## 🚧 To-do
