@@ -1,5 +1,5 @@
 # Shreya here 👋
-I'm Shreya, 18 years old. I'm learning 🧑🏻‍💻 programming to empower myself to create programs that improve lives. I also ✍️ Craft Blogs & Articles.
+I'm Shreya, 20 years old. I'm learning 🧑🏻‍💻 programming to empower myself to create programs that improve lives. I also ✍️ Craft Blogs & Articles.
 Doing My Degree In Bachelor Of Technology With Computer Science & Engineering In Dehradun Institude of Technology 
   
 ## 📈 Personal Stats
